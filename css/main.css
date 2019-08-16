@@ -1,0 +1,22 @@
+html{
+    font-family: 'Josefin Sans', sans-serif;
+    background:#E9E6FF;
+}
+
+h1{ text-align: center;
+    font-size: 80px;
+    margin:auto;
+    padding:10px;
+    text-emphasis: bold;
+}
+h2{  
+    text-align: center;
+    font-size:40px;
+
+}
+img {
+    display:flex;
+    padding:10px;
+    margin:auto;
+
+}
